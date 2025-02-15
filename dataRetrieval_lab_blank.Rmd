@@ -8,7 +8,7 @@ output:
 ---
 # dataRetrieval and area normalized flows (20 pts)
 
-[**Repo here**](https://github.com/tpcovino/lab_3){target="_blank"}
+[**Repo here**](https://github.com/tpcovino/06_data_retrieval_lab){target="_blank"}
 
 ## Intro - here I will change something. 
 
